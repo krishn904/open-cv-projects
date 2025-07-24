@@ -32,12 +32,4 @@ Everything happens in **real-time** using your device’s webcam!
 - `haarcascade_eye.xml`
 - `haarcascade_smile.xml`
 
-These files are included with OpenCV or can be downloaded from the official [OpenCV GitHub repository](https://github.com/opencv/opencv/tree/master/data/haarcascades).
-
-## 🛠️ How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
 
